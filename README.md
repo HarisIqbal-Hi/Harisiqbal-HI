@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Haris Iqbal</h1>
-<h3 align="center">Software Engineer | Web & Mobile Dev | React/Kotlin | Healthcare Tech</h3>
+<h3 align="center">Software Engineer | Front-End & Cloud Expert | Web & Android Development | React.js & Kotlin</h3>
 
-- 🔭 I’m currently working on [store-react-native](https://github.com/HarisIqbal-Hi/store-react-native)
-
-- 🌱 I’m currently learning **Frontend System Design, AWS Cloud, Databases, DSA**
+- 🌱 I’m currently learning **Frontend System Design, AWS Cloud, Databases**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
